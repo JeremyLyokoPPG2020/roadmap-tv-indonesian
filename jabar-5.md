@@ -76,7 +76,7 @@
   - [X] CNN Indonesia
   - [X] CNBC Indonesia
 
-Catatan:
-[a] Nusantara TV di Sukabumi bersiaran 24/7 tanpa ada sisa alokasi relai Magna Channel. Sementara Magna Channel hanya tampil sebagai logo on-air.
-[b] MDTV di Sukabumi bersiaran 24/7 tanpa ada sisa alokasi relai BN Channel. Sementara BN Channel hanya tampil sebagai logo on-air.
-[c] Bersiaran dengan resolusi 720p
+**Catatan:**
+- [a] Nusantara TV di Sukabumi bersiaran 24/7 tanpa ada sisa alokasi relai Magna Channel. Sementara Magna Channel hanya tampil sebagai logo on-air.
+- [b] MDTV di Sukabumi bersiaran 24/7 tanpa ada sisa alokasi relai BN Channel. Sementara BN Channel hanya tampil sebagai logo on-air.
+- [c] Bersiaran dengan resolusi 720p
